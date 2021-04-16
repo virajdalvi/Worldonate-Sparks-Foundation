@@ -2,8 +2,8 @@
   header .navbar-brand {
     padding-left: 1rem;
   }
-  header .col-sm-12 img {
-    padding-top: 0%;
+  header .padding-mob {
+    padding-top: 5rem;
   }
   .section-1 .row .col-md-6 .panel {
     position: initial;
