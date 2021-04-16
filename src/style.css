@@ -76,7 +76,7 @@ header .container .col-md-7 p {
   padding: 1vmin 5vmin;
 }
 
-.header .container.col-md-7 button {
+.header .container.col-md-7 a {
   border-radius: 30px;
   font-weight: bold;
 }
