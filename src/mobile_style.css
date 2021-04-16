@@ -2,6 +2,9 @@
   header .navbar-brand {
     padding-left: 1rem;
   }
+  header .col-sm-12 img {
+    padding-top: 0%;
+  }
   .section-1 .row .col-md-6 .panel {
     position: initial;
     width: initial;
