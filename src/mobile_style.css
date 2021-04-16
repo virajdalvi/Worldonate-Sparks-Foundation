@@ -5,6 +5,9 @@
   header .nav-link {
     padding-left: 1rem;
   }
+  #section1 {
+    padding-top: 0%;
+  }
   .section-1 .row .col-md-6 .panel {
     position: initial;
     width: initial;
