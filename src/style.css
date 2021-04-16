@@ -249,3 +249,6 @@ footer .column a + a {
   z-index: 9999;
   transition: all 1.5s ease;
 }
+.dir {
+  font-family: "Poppins", sans-serif;
+}
