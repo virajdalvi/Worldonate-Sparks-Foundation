@@ -230,14 +230,12 @@ footer {
   padding: 14vmin 18vmin;
 }
 
-footer .column i + i,
-.contact_i {
-  padding: 0 0.5em;
-}
 footer .column i {
   color: #5dd644;
 }
-
+footer .column a + a {
+  padding: 0 0.5em;
+}
 .contact_i {
   padding: 0 0.5em;
   color: white;
